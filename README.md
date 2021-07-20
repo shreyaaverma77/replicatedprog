@@ -14,6 +14,5 @@ else
     {
         cout << "You are not eligible for voting";
     }
-
-    return 0;
+return 0;
 }
